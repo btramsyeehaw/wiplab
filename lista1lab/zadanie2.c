@@ -1,3 +1,6 @@
+//zadanie2.c
+//autor: Bartosz Tramś
+
 #include <stdio.h>
 #include <math.h>
 int main(){
