@@ -1,3 +1,6 @@
+//polecenie03.c
+//autor: Bartosz Tramś
+
 #include <stdio.h>
 int main() {
  float cel;
