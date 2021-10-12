@@ -1,3 +1,6 @@
+//zadanie4.c
+//autor: Bartosz Tramś
+
 #include <stdio.h>
 int main(){
 	int n;
