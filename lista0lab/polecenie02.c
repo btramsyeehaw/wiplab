@@ -1,3 +1,6 @@
+//polecenie02.c
+//autor: Bartosz Tramś
+
 #include <stdio.h>
 int main()
 {
